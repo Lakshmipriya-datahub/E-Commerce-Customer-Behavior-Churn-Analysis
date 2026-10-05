@@ -59,25 +59,45 @@ ecommerce_customer_churn_dataset.csv
 🔍 Data Analysis Workflow
 
 📂 Raw Customer Data
+
         ↓
+        
 🧹 Data Cleaning & Transformation
+
         ↓
+        
 ⚙️ Power Query
+
         ↓
+
 🗂️ Data Modeling
+
         ↓
+
 🧮 DAX Measures & KPIs
+
         ↓
+
 📊 Interactive Dashboard
+
         ↓
+
 👥 Customer Behaviour Analysis
+
         ↓
+        
 ⚠️ Churn & Risk Analysis
+
         ↓
+
 🎯 Customer Segmentation
+
         ↓
+
 💡 Business Insights
+       
         ↓
+
 🚀 Recommendations
 
 📑 Dashboard Pages
