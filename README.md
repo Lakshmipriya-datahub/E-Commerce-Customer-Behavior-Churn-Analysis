@@ -56,7 +56,7 @@ Analyze overall customer behavior and engagement.
 
 ecommerce_customer_churn_dataset.csv
 
-🔍 Data Analysis Workflow
+## 🔍 Data Analysis Workflow
 
 📂 Raw Customer Data
         
