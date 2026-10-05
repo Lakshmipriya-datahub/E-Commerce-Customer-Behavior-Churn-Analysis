@@ -204,25 +204,6 @@ Key Business Benefits
 
 🚀 Identify opportunities for proactive customer re-engagement.
 
-## 📁 Project Structure
-
-E-commerce-Customer-Behaviour-Churn-Analysis/
-
-│
-├── README.md
-├── Dataset/
-│   └── ecommerce_customer_data.csv
-│
-├── Dashboard/
-│   └── E-commerce_Customer_Behaviour_Churn_Analysis.pbix
-│
-└── Screenshots/
-    ├── Executive_Overview.png
-    ├── Behavior_Analysis.png
-    ├── Risk_Analysis.png
-    ├── Customer_Segmentation.png
-    └── Business_Insights.png
-
 ## 👩‍💻 Author
 
 Lakshmi Priya
