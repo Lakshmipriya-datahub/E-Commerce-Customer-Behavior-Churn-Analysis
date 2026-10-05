@@ -1,4 +1,4 @@
-## 🛒 E-commerce Customer Behaviour & Churn Analysis
+# 🛒 E-commerce Customer Behaviour & Churn Analysis
 
 An interactive Power BI dashboard designed to analyze e-commerce customer behavior, identify churn patterns, understand customer engagement, and generate actionable business insights for improving customer retention.
 
@@ -52,55 +52,35 @@ Analyze overall customer behavior and engagement.
 
 • Generate actionable business insights and recommendations.
 
-## Dataset
+## 📂 Dataset
 
 ecommerce_customer_churn_dataset.csv
 
 🔍 Data Analysis Workflow
 
 📂 Raw Customer Data
-
-        ↓
         
 🧹 Data Cleaning & Transformation
 
-        ↓
-        
 ⚙️ Power Query
-
-        ↓
 
 🗂️ Data Modeling
 
-        ↓
-
 🧮 DAX Measures & KPIs
-
-        ↓
 
 📊 Interactive Dashboard
 
-        ↓
-
 👥 Customer Behaviour Analysis
-
-        ↓
         
 ⚠️ Churn & Risk Analysis
 
-        ↓
-
 🎯 Customer Segmentation
 
-        ↓
-
 💡 Business Insights
-       
-        ↓
 
 🚀 Recommendations
 
-📑 Dashboard Pages
+## 📑 Dashboard Pages
 
 1. 📊 Executive Overview
 
